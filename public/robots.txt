@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://los-angeles-ca-90045.onrender.com/sitemap.xml
+Sitemap: https://los-angeles-ca-90045.onrender.com/los-angeles-property-management/sitemap.xml
