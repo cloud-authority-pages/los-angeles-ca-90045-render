@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: los-angeles-ca-90045
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
